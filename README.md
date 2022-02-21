@@ -7,7 +7,7 @@
 #### 1) Download the project
 
 #### 2) On the terminal, write the next line :
-#### `pip install -r requirements.txt`
+#### `pip install pygame`
 
 #### 3) Now write the next line :
 #### `python pong.py`
